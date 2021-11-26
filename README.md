@@ -1,14 +1,11 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Bharat Gupta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Engineering Student at <a href="https://www.chitkara.edu.in">Chitkara University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Twitter Follow](https://img.shields.io/twitter/follow/bharat53516559?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-bharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-gupta-5a8605169/)](https://www.linkedin.com/in/anmol-p-singh/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -24,10 +21,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Reac
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning React
 
 <h2 align="center">You can reach me at :alien:</h2>
 
