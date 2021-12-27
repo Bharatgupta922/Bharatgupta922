@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 </p>
 
  
-![](https://activity-graph.herokuapp.com/graph?username=nyctonio&theme=github)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/Bharatgupta922/Bharatgupta922/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
