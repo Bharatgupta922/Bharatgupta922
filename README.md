@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning GraphQl
 - 💬 Ask me about WebDev,C++,DataStructure,Blazor
 - 📫 How to reach me: <a href="https://twitter.com/bharat53516559">twitter.com/bharat53516559</a>
-- ⚡ Fun fact: I love to read about different political , administrative systems.
+- ⚡ Fun fact: 
 
 <br/>
 
