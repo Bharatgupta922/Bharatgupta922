@@ -4,7 +4,7 @@
 <p><em>Engineering Student at <a href="https://www.chitkara.edu.in">Chitkara University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-bharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-gupta-5a8605169/)]([https://www.linkedin.com/in/anmol-p-singh/](https://www.linkedin.com/in/bharatgupta922/))
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-bharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatgupta922/)](https://www.linkedin.com/in/bharatgupta922/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
