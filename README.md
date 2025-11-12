@@ -40,6 +40,8 @@
   
 </p>
 
+<!--
+
 
 <h2 align="center">You can reach me at :alien:</h2>
 
@@ -63,15 +65,15 @@
   <a href="https://stackshare.io/anhello">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
   </a>
-  
+
   <a href="https://gitlab.com/AnhellO">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
   </a>
-  
+
   <a href="https://medium.com/@ajzavala">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
   </a>
-  
+
   <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
@@ -140,6 +142,7 @@
 </a>
 
 <br/>
+ -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
