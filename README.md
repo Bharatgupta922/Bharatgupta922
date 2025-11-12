@@ -8,13 +8,9 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-bharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatgupta922/)](https://www.linkedin.com/in/bharatgupta922/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ### Hi there 👋
-
-**Bharatgupta922/Bharatgupta922**
 
 ## 🙋‍♂️ About Me
 
@@ -88,12 +84,6 @@ const bharat = {
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharatgupta922&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Bharat gupta's profile stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatgupta922&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Bharat gupta :: most used languages" />
-</p>
-
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/Bharatgupta922/Bharatgupta922/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-  
 </p>
 
 <!--
@@ -203,8 +193,12 @@ const bharat = {
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+
+<a href="https://www.linkedin.com/in/bharatgupta922/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bharat%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+
+<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
+
+<a href="mailto:gbharat922@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gbharat922@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
