@@ -16,11 +16,65 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Next.JS
-- 🌱 I’m currently learning GraphQl
-- 💬 Ask me about WebDev,C++,DataStructure,Blazor
-- 📫 How to reach me: <a href="https://twitter.com/bharat53516559">twitter.com/bharat53516559</a>
-- ⚡ Fun fact:
+```javascript
+const bharat = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "YAML"],
+  askMeAbout: [
+    "web dev",
+    "cloud services (AWS)",
+    "microservices",
+    "devOps pipelines",
+    "system architecture",
+    "modern authentication",
+  ],
+  technologies: {
+    backEnd: {
+      js: ["Node.js", "Express", "NestJS", "Apollo Server/Federation"],
+      orm: ["Sequelize", "TypeORM", "Prisma"],
+    },
+    frontEnd: {
+      js: ["React.js", "Next.js"],
+      css: ["Bootstrap"],
+      uiLibraries: ["Arctic", "Shadcn"],
+    },
+    devOps: ["Docker", "CI/CD Pipeline", "AWS CloudFormation"],
+    cloudServices: {
+      aws: [
+        "S3",
+        "SNS",
+        "Lambda",
+        "SQS",
+        "EC2",
+        "ECS",
+        "RDS",
+        "API Gateway",
+        "Route 53",
+        "CloudWatch",
+      ],
+    },
+    databases: ["PostgreSQL", "MySQL", "SQLite"],
+    misc: [
+      "GraphQL APIs",
+      "REST APIs",
+      "OAuth2.0",
+      "Lucia Auth",
+      "Unit Testing",
+      "Integration Testing",
+    ],
+  },
+  architecture: {
+    frontEnd: ["SPA", "SSR"],
+    backEnd: ["microservices", "monolithic"],
+    devOps: ["CloudFormation", "CI/CD Pipeline"],
+    databases: ["Relational"],
+  },
+  currentFocus:
+    "Scaling systems and secure authentication with modern cloud tools.",
+  funFact:
+    "Officially fullstack, but unofficially the backend wizard—frontend gets 25% love and CSS gets only the leftovers!",
+};
+```
 
 <br/>
 
