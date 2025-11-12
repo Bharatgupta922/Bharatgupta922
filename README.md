@@ -7,7 +7,7 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-bharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatgupta922/)](https://www.linkedin.com/in/bharatgupta922/)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Hey! Love meeting meeting awesome people—say hi anytime or maybe even a virtual high-five!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Hey! Love meeting awesome people—say hi anytime or maybe even a virtual high-five!</b> 😊</em>
 
 ### Hi there 👋
 
